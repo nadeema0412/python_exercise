@@ -1,1 +1,1 @@
-# python_exercise
+# intellipaat-python
